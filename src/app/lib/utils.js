@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 
+ *   All rights reserved.
+ */
 
 export const formatCurrency = (amount) => {
   return (amount / 100).toLocaleString('en-US', {

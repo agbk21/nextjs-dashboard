@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 
+ *   All rights reserved.
+ */
 import { sql } from '@vercel/postgres';
 import { formatCurrency } from './utils';
 
