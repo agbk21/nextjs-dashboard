@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 
+ *   All rights reserved.
+ */
 require("dotenv").config();
 
 const { db } = require('@vercel/postgres');
